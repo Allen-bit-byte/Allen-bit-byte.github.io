@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "3c3d99a76abce4d0431a";
+/******/ 	var hotCurrentHash = "d8e359066ed35ee286a2";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -968,8 +968,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var alpi
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\User\Documents\GitHub\Allen-bit-byte.github.io\src\js\main.js */"./js/main.js");
-module.exports = __webpack_require__(/*! C:\Users\User\Documents\GitHub\Allen-bit-byte.github.io\src\css\style.scss */"./css/style.scss");
+__webpack_require__(/*! C:\Users\User\Documents\GitHub\landing-page\src\js\main.js */"./js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\User\Documents\GitHub\landing-page\src\css\style.scss */"./css/style.scss");
 
 
 /***/ })
